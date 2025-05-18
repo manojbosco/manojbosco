@@ -7,9 +7,7 @@ class Main {
     while (i <= n) {
       System.out.print(firstTerm + ", ");
 
-      int nextTerm = firstTerm + secondTerm;
-      firstTerm = secondTerm;
-      secondTerm = nextTerm;
+ 
 
       
     }
